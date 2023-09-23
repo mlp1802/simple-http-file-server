@@ -1,4 +1,4 @@
-###Simple nginx http file server
+### Simple nginx http file server
 
 Exposes a public directory on your server (the "data" directory), put your files and directories here.
 
