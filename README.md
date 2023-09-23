@@ -1,8 +1,13 @@
 ### Simple nginx http file server
 
-Exposes a public directory on your server (the "data" directory), put your files and directories here.
+Exposes a public directory on your server.
 
-Start it with
+Usage
+1. put your files and directories in the data directory
+2. Start server with docker compose
+
 ```
 docker-compose up
 ```
+
+
